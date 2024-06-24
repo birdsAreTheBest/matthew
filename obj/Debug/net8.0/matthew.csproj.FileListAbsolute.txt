@@ -1,0 +1,14 @@
+/Users/leesacademy/Documents/aoc/matthew/bin/Debug/net8.0/matthew
+/Users/leesacademy/Documents/aoc/matthew/bin/Debug/net8.0/matthew.deps.json
+/Users/leesacademy/Documents/aoc/matthew/bin/Debug/net8.0/matthew.runtimeconfig.json
+/Users/leesacademy/Documents/aoc/matthew/bin/Debug/net8.0/matthew.dll
+/Users/leesacademy/Documents/aoc/matthew/bin/Debug/net8.0/matthew.pdb
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.AssemblyInfoInputs.cache
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.AssemblyInfo.cs
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.csproj.CoreCompileInputs.cache
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.dll
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/refint/matthew.dll
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.pdb
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.genruntimeconfig.cache
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/ref/matthew.dll
