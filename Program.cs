@@ -998,8 +998,22 @@
 29x4x8
 21x2x22
 14x12x8";
+
+// input = @"2x3x4
+// 1x1x10";
+
+int total = 0;
 string[] presents = input.Split('\n');
 foreach (string present in presents) {
-   string[] dimensions = present.Split ('x');
-   int length =  
+   string[] dimensions = present.Split('x');
+   int length =  int.Parse(dimensions[0]);
+   int width = int.Parse(dimensions[1]);
+   int height = int.Parse(dimensions[2]);
+   int x = (length + height) * 2;
+   int y = (width + length) * 2;
+   int z = (width + height) * 2;
+   Console.WriteLine(x + ", " + y + ", " + z + ": " + (x*y*z));
+   total += (length * width * height) + Math.Min(x, Math.Min(y, z));
+   
 }
+Console.WriteLine(total);

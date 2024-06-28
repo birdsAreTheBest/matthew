@@ -12,3 +12,4 @@
 /Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.pdb
 /Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.genruntimeconfig.cache
 /Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/ref/matthew.dll
+/Users/leesacademy/Documents/aoc/matthew/obj/Debug/net8.0/matthew.sourcelink.json
